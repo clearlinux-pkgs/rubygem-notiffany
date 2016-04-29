@@ -4,7 +4,7 @@
 #
 Name     : rubygem-notiffany
 Version  : 0.0.7
-Release  : 3
+Release  : 4
 URL      : https://rubygems.org/downloads/notiffany-0.0.7.gem
 Source0  : https://rubygems.org/downloads/notiffany-0.0.7.gem
 Summary  : No detailed summary available
